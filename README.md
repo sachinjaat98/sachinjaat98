@@ -1,5 +1,4 @@
-# Hi 👋, I'm Sachin Kumar
-### 🎓 Junior Research Fellow | 🧠 AI & Computer Vision Enthusiast | ⚙️ Python Developer
+<h1 align="center">Hi 👋, I'm Sachin Kumar</h1> <h3 align="center">🎓 Junior Research Fellow | 🧠 AI & Computer Vision Enthusiast | ⚙️ Python Developer</h3>
 
 I build practical ML & computer-vision systems and integrate them with simulation environments (JSBSim / FlightGear) for realistic research workflows.
 

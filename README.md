@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sachin Kumar</h1> <h3 align="center">🎓 Junior Research Fellow | 🧠 AI & Computer Vision Enthusiast | ⚙️ Python Developer</h3>
 
-I build practical ML & computer-vision systems and integrate them with simulation environments (JSBSim / FlightGear) for realistic research workflows.
+I build practical ML & computer-vision systems and integrate them with simulation environments for realistic research workflows.
 
 ---
 
 ### 🔗 Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinkumarai)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/jaat98/)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@example.com)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinjaat1898@gmail.com)
 
 ---
 

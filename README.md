@@ -55,19 +55,5 @@ I build practical ML & computer-vision systems and integrate them with simulatio
 ---
 
 ### ✅ What I’m focusing on
-- Deploying robust CV models in simulation & embedded systems  
-- Bulletproof dataset pipelines, reproducible experiments, and Tacview/FlightGear integrations for ACMI-style visualization
+- Deploying robust NLP models in simulation & embedded systems  
 
----
-
-### 📫 Get in touch
-[LinkedIn](https://www.linkedin.com/in/sachinkumarai) • [Email](mailto:yourmail@example.com) • [LeetCode](https://leetcode.com/jaat98/)
-
----
-
-*If you want, I can now:*  
-- Add a compact demo GIF and show you the exact Markdown to include it.  
-- Create polished `README.md` templates for each project (with install/run sections, examples, results).  
-- Make a dark/light banner image that matches this README.
-
-Tell me which one you want first — I recommend **project READMEs** (they’ll lift your profile more than anything).  

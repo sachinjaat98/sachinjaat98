@@ -43,6 +43,8 @@ I build practical ML & computer-vision systems and integrate them with simulatio
 
 - ✋ **[Hand Gesture Recognition](https://github.com/sachinjaat98/Hand_Gesture_Recognition)**  
   Real-time gesture control using OpenCV + lightweight CNNs. Demo and usage instructions included.
+  <img width="581" height="576" alt="Untitled-1" src="https://github.com/user-attachments/assets/16e9a528-67dc-47d2-b1ba-d23b68f622b6" />
+
 
 - 🧠 **[Brain Tumor Detection](https://github.com/sachinjaat98/Brain_Tumor_Detection)**  
   MRI classification using EfficientNet & MobileNet. Contains training logs, inference script, and sample results.

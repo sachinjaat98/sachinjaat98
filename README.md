@@ -50,7 +50,8 @@ I build practical ML & computer-vision systems and integrate them with simulatio
 - 👁️ **[Animatronic Eye](https://github.com/sachinjaat98/Animatronic_Eye)**  
   Hardware interfacing + CV feedback loop to simulate realistic eye movements.
 
-<img width="600" height="585" alt="confusion_matrix" src="https://github.com/user-attachments/assets/e2739c5c-fd2f-4b75-9765-404c8fd9d1f6" />
+![IMG_20210319_015851](https://github.com/user-attachments/assets/a985d609-9388-459b-b03a-0026a2856e83)
+
 
 ---
 

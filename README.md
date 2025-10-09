@@ -50,7 +50,7 @@ I build practical ML & computer-vision systems and integrate them with simulatio
 - 👁️ **[Animatronic Eye](https://github.com/sachinjaat98/Animatronic_Eye)**  
   Hardware interfacing + CV feedback loop to simulate realistic eye movements.
 
-> 📌 Tip: Add a short GIF or screenshot for 2–3 of these repos (put under repo `README.md`) — visual demos dramatically increase recruiter engagement.
+<img width="600" height="585" alt="confusion_matrix" src="https://github.com/user-attachments/assets/e2739c5c-fd2f-4b75-9765-404c8fd9d1f6" />
 
 ---
 

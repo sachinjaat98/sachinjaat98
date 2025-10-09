@@ -23,7 +23,7 @@ I work at the intersection of **AI, deep learning, and simulation systems** — 
     <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   </a>
 
-  <br/>
+
 
   <a href="https://pytorch.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
@@ -35,7 +35,7 @@ I work at the intersection of **AI, deep learning, and simulation systems** — 
     <img src="https://img.shields.io/badge/-OpenCV-0097D8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
   </a>
 
-  <br/>
+  
 
   <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>

@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sachin Kumar</h1>
-<h3 align="center">AI & Computer Vision Researcher from India</h3>
+<h3 align="center">🎓 Junior Research Fellow | 🧠 AI & Computer Vision Enthusiast | ⚙️ Python Developer</h3>
 
-- 🔭 I’m currently working as **Junior Research Fellow**
-
-- 🌱 I’m currently learning **NLP and LLM**
+Welcome to my GitHub!  
+I work at the intersection of **AI, deep learning, and simulation systems** — building intelligent models that interact with the real world.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

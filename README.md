@@ -25,8 +25,7 @@ I build practical ML & computer-vision systems and integrate them with simulatio
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MATLAB-ff8c00?style=for-the-badge&logo=matlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MATLAB-ff8c00?style=for-the-badge&logo=matlab&logoColor=white"/
 
   <br/>
 
@@ -36,17 +35,18 @@ I build practical ML & computer-vision systems and integrate them with simulatio
   <img src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   
 
  
   <br/>
 
   <!-- Simulation / RL -->
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JSBSim-0A0A0A?style=for-the-badge&logo=airplane&logoColor=white"/>
   <img src="https://img.shields.io/badge/-FlightGear-0E76A8?style=for-the-badge&logo=flightaware&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Gymnasium-000000?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Stable--Baselines3-306998?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 
   <br/>
 
@@ -62,9 +62,9 @@ I build practical ML & computer-vision systems and integrate them with simulatio
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-<p align="center" style="color:#555;font-style:italic;margin-top:8px;">
+<!-- <p align="" style="color:#555;font-style:italic;margin-top:8px;">
   Skilled in AI/ML research, real-time simulation, and computer-vision development — from data to deployment.
-</p>
+</p> -->
 
 ---
 

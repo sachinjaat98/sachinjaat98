@@ -17,26 +17,11 @@ I build practical ML & computer-vision systems and integrate them with simulatio
 - [Projects I'm Proud Of](#-projects-im-proud-of)  
 - [Get In Touch](#-connect)
 
----
-
-### 🧠 Languages & Tools
-
-<p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-  <a href="https://isocpp.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
-  <a href="https://pytorch.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
-  <a href="https://opencv.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-OpenCV-0097D8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/></a>
-  <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
-  <a href="https://scikit-learn.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/></a>
-  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
-</p>
 
 *Experienced building ML pipelines, computer-vision systems, and integrating simulations with real-time data.*
 ### 🧠 Languages & Tools
 
 <p align="center">
-  <!-- Core -->
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -53,7 +38,6 @@ I build practical ML & computer-vision systems and integrate them with simulatio
   <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/-OpenCV-0097D8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/-YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black"/>
   <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
 

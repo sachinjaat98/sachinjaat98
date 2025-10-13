@@ -26,6 +26,7 @@ I build practical ML & computer-vision systems and integrate them with simulatio
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MATLAB-ff8c00?style=for-the-badge&logo=matlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 
   <br/>
 
@@ -44,7 +45,7 @@ I build practical ML & computer-vision systems and integrate them with simulatio
   <img src="https://img.shields.io/badge/-FlightGear-0E76A8?style=for-the-badge&logo=flightaware&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Gymnasium-000000?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Stable--Baselines3-306998?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  
 
   <br/>
 

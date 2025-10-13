@@ -45,7 +45,7 @@ I build practical ML & computer-vision systems and integrate them with simulatio
   <img src="https://img.shields.io/badge/-FlightGear-0E76A8?style=for-the-badge&logo=flightaware&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Gymnasium-000000?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Stable--Baselines3-306998?style=for-the-badge&logo=python&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
   <br/>
 
@@ -58,7 +58,7 @@ I build practical ML & computer-vision systems and integrate them with simulatio
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  
 </p>
 
 <!-- <p align="" style="color:#555;font-style:italic;margin-top:8px;">

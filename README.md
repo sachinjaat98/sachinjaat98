@@ -76,7 +76,7 @@ I build practical ML & computer-vision systems and integrate them with simulatio
   Real-time gesture control using OpenCV + lightweight CNNs. Demo and usage instructions included.
   
 - 📷 **[Eccentric](https://github.com/sachinjaat98/Eccentric)**
-   Real time Scene text detection system
+   Real time Scene text detection system.
 
 - 🧠 **[Brain Tumor Detection](https://github.com/sachinjaat98/Brain_Tumor_Detection)**  
   MRI classification using EfficientNet & MobileNet. Contains training logs, inference script, and sample results.

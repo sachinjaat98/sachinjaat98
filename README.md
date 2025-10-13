@@ -25,7 +25,7 @@ I build practical ML & computer-vision systems and integrate them with simulatio
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MATLAB-ff8c00?style=for-the-badge&logo=matlab&logoColor=white"/
+  <img src="https://img.shields.io/badge/-MATLAB-ff8c00?style=for-the-badge&logo=matlab&logoColor=white"/>
 
   <br/>
 
@@ -36,8 +36,6 @@ I build practical ML & computer-vision systems and integrate them with simulatio
   <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   
-
- 
   <br/>
 
   <!-- Simulation / RL -->

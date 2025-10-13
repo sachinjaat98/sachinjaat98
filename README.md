@@ -21,7 +21,7 @@ I build practical ML & computer-vision systems and integrate them with simulatio
 *Experienced building ML pipelines, computer-vision systems, and integrating simulations with real-time data.*
 ### 🧠 Languages & Tools
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>

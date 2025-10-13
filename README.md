@@ -52,15 +52,12 @@ I build practical ML & computer-vision systems and integrate them with simulatio
   <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-  <br/>
-
-  <!-- Vision -->
   <img src="https://img.shields.io/badge/-OpenCV-0097D8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/-YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black"/>
   <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
 
+ 
   <br/>
 
   <!-- Simulation / RL -->
@@ -78,13 +75,6 @@ I build practical ML & computer-vision systems and integrate them with simulatio
   <img src="https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-  <br/>
-
-  <!-- Docs & Design -->
-  <img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 </p>
 
 <p align="center" style="color:#555;font-style:italic;margin-top:8px;">

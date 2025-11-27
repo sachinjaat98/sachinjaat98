@@ -84,10 +84,6 @@ I build practical ML & computer-vision systems and integrate them with simulatio
 - 👁️ **[Animatronic Eye](https://github.com/sachinjaat98/Animatronic_Eye)**  
   Hardware interfacing + CV feedback loop to simulate realistic eye movements.
 
-![IMG_20210319_015851](https://github.com/user-attachments/assets/eb3facea-3ca7-46dd-b796-5a411670bac1)
-
-
----
 
 ### ✅ What I’m focusing on
 - Deploying robust NLP models in simulation & embedded systems  

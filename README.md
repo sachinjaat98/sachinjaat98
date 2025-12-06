@@ -9,16 +9,8 @@ I build practical ML & computer-vision systems and integrate them with simulatio
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/jaat98/)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinjaat1898@gmail.com)
 
----
-
-### 📚 Table of Contents
-- [About](#hi--i'm-sachin-kumar)  
-- [Languages & Tools](#-languages--tools)  
-- [Projects I'm Proud Of](#-projects-im-proud-of)  
-- [Get In Touch](#-connect)
 
 
-*Experienced building ML pipelines, computer-vision systems, and integrating simulations with real-time data.*
 ### 🧠 Languages & Tools
 
 <p align="left">

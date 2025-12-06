@@ -64,27 +64,3 @@ I build practical ML & computer-vision systems and integrate them with simulatio
 <!-- <p align="" style="color:#555;font-style:italic;margin-top:8px;">
   Skilled in AI/ML research, real-time simulation, and computer-vision development — from data to deployment.
 </p> -->
-
----
-
-### 🧩 Projects I'm Proud Of
-
-- 🚗 **[Traffic Monitoring System](https://github.com/sachinjaat98/Traffic_Monitoring_System)**  
-  Computer-vision pipeline for vehicle detection, classification & speed estimation. Includes dataset scripts and evaluation notebooks.
-
-- ✋ **[Hand Gesture Recognition](https://github.com/sachinjaat98/Hand_Gesture_Recognition)**  
-  Real-time gesture control using OpenCV + lightweight CNNs. Demo and usage instructions included.
-  
-- 📷 **[Eccentric](https://github.com/sachinjaat98/Eccentric)**
-  Real time Scene text detection system.
-
-- 🧠 **[Brain Tumor Detection](https://github.com/sachinjaat98/Brain_Tumor_Detection)**  
-  MRI classification using EfficientNet & MobileNet. Contains training logs, inference script, and sample results.
-
-- 👁️ **[Animatronic Eye](https://github.com/sachinjaat98/Animatronic_Eye)**  
-  Hardware interfacing + CV feedback loop to simulate realistic eye movements.
-
-
-### ✅ What I’m focusing on
-- Deploying robust NLP models in simulation & embedded systems  
-

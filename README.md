@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sachin Kumar</h1> <h3 align="center">🎓 Junior Research Fellow | 🧠 AI & Computer Vision Enthusiast | ⚙️ Python Developer</h3>
+<h1 align="center">Hi, I'm Sachin Kumar</h1> <h3 align="center">🎓 AI & Computer Vision Enthusiast | ⚙️ Python Developer</h3>
 
 I build practical ML & computer-vision systems and integrate them with simulation environments for realistic research workflows.
 

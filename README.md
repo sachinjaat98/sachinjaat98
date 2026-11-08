@@ -5,7 +5,7 @@ AI/ML Engineer • Edge AI • Computer Vision • Embedded Systems
 </h3>
 
 <p align="center">
-  <em>Building intelligent systems at the intersection of AI, electronics, embedded systems and real-world applications.</em>
+  <em>Building intelligent systems at the intersection of AI, electronics, embedded systems, and real-world applications.</em>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ AI/ML Engineer • Edge AI • Computer Vision • Embedded Systems
 
 I'm an **Electronics & Communication Engineer** with hands-on experience across **Artificial Intelligence, Computer Vision, Reinforcement Learning, Embedded Systems and IoT**.
 
-I enjoy working on problems where software meets the physical world — from training deep-learning models and reinforcement-learning agents to deploying intelligent systems on **Raspberry Pi, STM32 and ESP32** hardware.
+I enjoy working on problems where software meets the physical world — from training deep-learning models and reinforcement-learning agents to deploying intelligent systems on **Raspberry Pi, STM32, and ESP32** hardware.
 
 My background includes research and engineering work involving:
 
@@ -62,7 +62,7 @@ Developed computer-vision pipelines for **object detection, tracking and real-ti
 
 ### 🧠 Medical Image Classification
 
-Developed a deep-learning based **brain tumor classification system** using transfer learning architectures such as MobileNetV2.
+Developed a deep-learning-based **brain tumor classification system** using transfer-learning architectures such as MobileNetV2.
 
 **Focus:** Deep Learning • CNN • Transfer Learning • TensorFlow/Keras • Computer Vision
 
@@ -128,7 +128,7 @@ Technologies included **STM32/ESP32, Raspberry Pi, RS485, MQTT, ThingsBoard/AWS 
 
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git- F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
@@ -168,14 +168,6 @@ I'm especially interested in:
 ---
 
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachinjaat98&show_icons=true&theme=transparent&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinjaat98&layout=compact&theme=transparent&hide_border=true" height="165"/>
-</p>
 
 ---
 

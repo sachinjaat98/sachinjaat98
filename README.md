@@ -42,38 +42,6 @@ I'm particularly interested in building **efficient AI systems that can operate 
 
 ---
 
-## 🚀 What I Build
-
-### 🧠 AI / Machine Learning
-- Deep Learning and model development using **PyTorch & TensorFlow**
-- Computer Vision using **OpenCV, YOLO and CNN architectures**
-- Object detection, tracking and image-based applications
-- NLP and Transformer-based models
-- Classical Machine Learning and data analysis
-
-### 🎮 Reinforcement Learning & Simulation
-- RL environments using **Gymnasium / Stable-Baselines3**
-- PPO and other policy-learning approaches
-- Flight simulation using **JSBSim & FlightGear**
-- AI agents for simulated autonomous systems
-- Simulation-driven experimentation and research
-
-### ⚙️ Embedded & Edge AI
-- **STM32, ESP32 and Raspberry Pi**
-- Sensor interfacing and data acquisition
-- I²C, SPI, UART and RS485/Modbus
-- Deploying lightweight ML/CV systems on edge hardware
-- Hardware-software integration
-
-### 🌐 IoT & Intelligent Monitoring
-- MQTT-based systems
-- ThingsBoard and AWS IoT
-- Environmental and sensor monitoring
-- Remote data logging and visualization
-- Real-time hardware-to-cloud pipelines
-
----
-
 ## 🔬 Selected Projects & Experience
 
 ### ✈️ Reinforcement Learning for Air Combat Simulation
@@ -102,27 +70,12 @@ Developed a deep-learning based **brain tumor classification system** using tran
 
 ### 🌊 IoT-Based Environmental Monitoring
 
-Worked on sensor-based monitoring systems involving environmental parameters, data acquisition, edge devices and cloud connectivity.
+Worked on sensor-based monitoring systems involving environmental parameters, data acquisition, edge devices, and cloud connectivity.
 
-Technologies included **STM32/ESP32, Raspberry Pi, RS485, MQTT, ThingsBoard/AWS IoT and multiple industrial/environmental sensors**.
+Technologies included **STM32/ESP32, Raspberry Pi, RS485, MQTT, ThingsBoard/AWS IoT, and multiple industrial/environmental sensors**.
 
 **Focus:** Embedded Systems • IoT • Sensors • MQTT • Cloud • Data Logging
 
----
-
-### 🚦 Intelligent Traffic Monitoring
-
-Developed computer-vision based traffic monitoring pipelines using **TensorFlow and OpenCV**, with an emphasis on automated detection and analysis.
-
-**Focus:** Computer Vision • Deep Learning • OpenCV • Python
-
----
-
-### 🔤 Text Detection & Recognition
-
-Worked on OCR pipelines combining **EAST text detection and Tesseract OCR** for extracting text from images.
-
-**Focus:** OpenCV • Deep Learning • OCR • Image Processing
 
 ---
 
@@ -214,31 +167,6 @@ I'm especially interested in:
 
 ---
 
-## 📚 Currently Learning & Improving
-
-I'm continuously working on the areas that bridge my electronics background with modern AI engineering:
-
-- Advanced **PyTorch**
-- Transformers and modern Deep Learning
-- Model optimization and **ONNX / TensorRT**
-- Docker and reproducible ML environments
-- MLOps and model deployment
-- FastAPI and ML inference APIs
-- Embedded AI / TinyML
-- Robotics and autonomous systems
-- Advanced reinforcement learning
-
----
-
-## 🧭 Long-Term Goal
-
-I want to build a career around **intelligent autonomous systems**, combining my background in electronics with AI and embedded computing.
-
-My long-term direction is:
-
-**AI/ML → Edge AI → Robotics → Autonomous Systems → Defense & Aerospace**
-
-I believe the most interesting AI systems are not limited to notebooks and cloud GPUs — they are systems that can **sense, decide and act in the real world.**
 
 ---
 

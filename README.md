@@ -139,20 +139,6 @@ Technologies included **STM32/ESP32, Raspberry Pi, RS485, MQTT, ThingsBoard/AWS 
 
 ## 🎯 Current Focus
 
-I'm currently strengthening the intersection of **AI + Embedded Systems**, with particular interest in:
-
-```text
-Edge AI
-   ↓
-Computer Vision
-   ↓
-Embedded / Real-Time Systems
-   ↓
-Robotics & Autonomous Systems
-   ↓
-Defense & Aerospace Applications
-```
-
 I'm especially interested in:
 
 - 🚀 Efficient AI and model optimization
@@ -164,22 +150,6 @@ I'm especially interested in:
 - 👁️ Real-time computer vision
 - 🔧 AI + electronics + embedded systems
 - 🔬 Applied AI research
-
----
-
-
-
----
-
-## 💡 A Few Things About Me
-
-- 🎓 Electronics & Communication Engineering background
-- 🤖 Interested in AI that interacts with the physical world
-- ⚙️ I enjoy both **writing algorithms and working with hardware**
-- 🔬 Research-oriented, but equally interested in practical engineering
-- 🚁 Fascinated by autonomous systems, drones and aerospace technology
-- 🧠 Always trying to understand how things work under the hood
-- 🏔️ I enjoy travelling to the hills when I'm away from the terminal
 
 ---
 

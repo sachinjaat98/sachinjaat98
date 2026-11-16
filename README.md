@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Sachin Kumar 👋</h1>
+<h1 align="center">Hi, I'm Sachin </h1>
 
 <h3 align="center">
-AI/ML Engineer • Edge AI • Computer Vision • Embedded Systems
+Embedded Systems • AI/ML Engineer  • Computer Vision  
 </h3>
 
 <p align="center">

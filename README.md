@@ -137,22 +137,6 @@ Technologies included **STM32/ESP32, Raspberry Pi, RS485, MQTT, ThingsBoard/AWS 
 
 ---
 
-## 🎯 Current Focus
-
-I'm especially interested in:
-
-- 🚀 Efficient AI and model optimization
-- ⚡ AI on edge devices
-- 🤖 Robotics and autonomous systems
-- 🚁 UAVs / drones and intelligent control
-- 🛰️ Defense and aerospace technology
-- 🧠 Reinforcement learning
-- 👁️ Real-time computer vision
-- 🔧 AI + electronics + embedded systems
-- 🔬 Applied AI research
-
----
-
 <p align="center">
   <i>“Build systems that can sense, learn, decide and act.”</i>
 </p>

@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Sachin </h1>
 
-<h3 align="center">
-Embedded Systems  • Computer Vision  
-</h3>
-
 <p align="center">
   <em>Building intelligent systems at the intersection of AI, electronics, embedded systems, and real-world applications.</em>
 </p>

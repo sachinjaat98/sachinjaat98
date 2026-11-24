@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sachin </h1>
 
 <h3 align="center">
-Embedded Systems • AI/ML Engineer  • Computer Vision  
+Embedded Systems  • Computer Vision  
 </h3>
 
 <p align="center">
@@ -24,21 +24,16 @@ Embedded Systems • AI/ML Engineer  • Computer Vision
 
 ## 🧑‍💻 About Me
 
-I'm an **Electronics & Communication Engineer** with hands-on experience across **Artificial Intelligence, Computer Vision, Reinforcement Learning, Embedded Systems and IoT**.
-
-I enjoy working on problems where software meets the physical world — from training deep-learning models and reinforcement-learning agents to deploying intelligent systems on **Raspberry Pi, STM32, and ESP32** hardware.
+I'm an **Electronics & Communication Engineer** with hands-on experience across ** Computer Vision, Reinforcement Learning, Embedded Systems, and IoT**.
 
 My background includes research and engineering work involving:
 
-- 🤖 **AI/ML & Deep Learning**
 - 👁️ **Computer Vision & Object Detection**
 - 🧠 **Reinforcement Learning & Simulation**
 - ⚡ **Embedded Systems & Edge AI**
 - 📡 **IoT, Sensors & Data Acquisition**
 - 🚁 **Autonomous Systems & Drone/Defense applications**
 - 🔬 **Research-oriented engineering and experimentation**
-
-I'm particularly interested in building **efficient AI systems that can operate in real-world and resource-constrained environments.**
 
 ---
 

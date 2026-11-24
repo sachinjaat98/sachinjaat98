@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm an **Electronics & Communication Engineer** with hands-on experience across ** Computer Vision, Reinforcement Learning, Embedded Systems, and IoT**.
+I'm an **Electronics & Communication Engineer** with hands-on experience across **Computer Vision, Reinforcement Learning, Embedded Systems, and IoT**.
 
 My background includes research and engineering work involving:
 

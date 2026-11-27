@@ -32,44 +32,6 @@ My background includes research and engineering work involving:
 - 🔬 **Research-oriented engineering and experimentation**
 
 ---
-
-## 🔬 Selected Projects & Experience
-
-### ✈️ Reinforcement Learning for Air Combat Simulation
-
-Worked on an AI-driven air-combat simulation environment using **JSBSim and FlightGear**, integrating reinforcement learning with flight dynamics simulation.
-
-**Focus:** RL • PPO • Simulation • Python • JSBSim • FlightGear • Autonomous Agents
-
----
-
-### 👁️ Computer Vision & Object Tracking
-
-Developed computer-vision pipelines for **object detection, tracking and real-time monitoring**, including YOLO-based detection and Kalman-filter-based tracking.
-
-**Focus:** YOLO • OpenCV • Object Detection • Tracking • Kalman Filter
-
----
-
-### 🧠 Medical Image Classification
-
-Developed a deep-learning-based **brain tumor classification system** using transfer-learning architectures such as MobileNetV2.
-
-**Focus:** Deep Learning • CNN • Transfer Learning • TensorFlow/Keras • Computer Vision
-
----
-
-### 🌊 IoT-Based Environmental Monitoring
-
-Worked on sensor-based monitoring systems involving environmental parameters, data acquisition, edge devices, and cloud connectivity.
-
-Technologies included **STM32/ESP32, Raspberry Pi, RS485, MQTT, ThingsBoard/AWS IoT, and multiple industrial/environmental sensors**.
-
-**Focus:** Embedded Systems • IoT • Sensors • MQTT • Cloud • Data Logging
-
-
----
-
 ## 🛠️ Technical Stack
 
 ### Languages
@@ -127,6 +89,45 @@ Technologies included **STM32/ESP32, Raspberry Pi, RS485, MQTT, ThingsBoard/AWS 
 </p>
 
 ---
+
+
+## 🔬 Selected Projects & Experience
+
+### ✈️ Reinforcement Learning for Air Combat Simulation
+
+Worked on an AI-driven air-combat simulation environment using **JSBSim and FlightGear**, integrating reinforcement learning with flight dynamics simulation.
+
+**Focus:** RL • PPO • Simulation • Python • JSBSim • FlightGear • Autonomous Agents
+
+---
+
+### 👁️ Computer Vision & Object Tracking
+
+Developed computer-vision pipelines for **object detection, tracking and real-time monitoring**, including YOLO-based detection and Kalman-filter-based tracking.
+
+**Focus:** YOLO • OpenCV • Object Detection • Tracking • Kalman Filter
+
+---
+
+### 🧠 Medical Image Classification
+
+Developed a deep-learning-based **brain tumor classification system** using transfer-learning architectures such as MobileNetV2.
+
+**Focus:** Deep Learning • CNN • Transfer Learning • TensorFlow/Keras • Computer Vision
+
+---
+
+### 🌊 IoT-Based Environmental Monitoring
+
+Worked on sensor-based monitoring systems involving environmental parameters, data acquisition, edge devices, and cloud connectivity.
+
+Technologies included **STM32/ESP32, Raspberry Pi, RS485, MQTT, ThingsBoard/AWS IoT, and multiple industrial/environmental sensors**.
+
+**Focus:** Embedded Systems • IoT • Sensors • MQTT • Cloud • Data Logging
+
+
+---
+
 
 <p align="center">
   <i>“Build systems that can sense, learn, decide and act.”</i>
